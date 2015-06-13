@@ -5,7 +5,7 @@ best practices and guidelines used as reference when writing code for MEDIGO.
 
 ## Language Style Guides
 
-* [SCSS](/scss.md)
+* [SCSS](/docs/scss.md)
 
 ## License
 
