@@ -131,7 +131,7 @@ padding: 0 1em 2em;
 // good
 #signup-form {}
 ```
- 
+
 ## Values
 
 * Omit unit specification after "0" values.
@@ -227,14 +227,14 @@ p {
 ```scss
 // bad
 h1, h2, h3 {
-  color: back;
+  color: black;
 }
 
 // good
 h1,
 h2,
 h3 {
-  color: back;
+  color: black;
 }
 ```
 
@@ -243,12 +243,12 @@ h3 {
 ```scss
 // bad
 h1 {
-  color: back; font-weight: normal;
+  color: black; font-weight: normal;
 }
 
 // good
 h1 {
-  color: back;
+  color: black;
   font-weight: normal;
 }
 ```
